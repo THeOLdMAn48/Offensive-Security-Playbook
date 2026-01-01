@@ -3,6 +3,8 @@
 ## 📌 Category
 Web Application Attack
 
+<img src="images/main-idor.png" alt="Burp Suite IDOR" width="900"/>
+
 ---
 
 ## 🧠 What is IDOR?
@@ -39,19 +41,16 @@ Attackers can manipulate these values to access **other users’ data**.
 
 ## 🛠️ Tools Used
 
-- Burp Suite  
-<img src="images/burpsuite.png" alt="Burp Suite IDOR" width="700"/>
+- Burp Suite
+  
+### setp 1
 
-- Postman  
-<img src="images/postman.png" alt="Postman IDOR" width="700"/>
+<img src="images/idor-burp.png" alt="Burp Suite IDOR" width="700"/>
+<img src="images/idor2-burp.png" alt="Burp Suite IDOR" width="700"/>
+<img src="images/idor3-burp.png" alt="Burp Suite IDOR" width="700"/>
+<img src="images/idor4-burp.png" alt="Burp Suite IDOR" width="700"/>
 
-- Browser Developer Tools  
-<img src="images/devtools.png" alt="DevTools IDOR" width="700"/>
-
-- Manual Request Tampering  
-<img src="images/manual-idor.png" alt="Manual IDOR" width="700"/>
-
----
+--- 
 
 ## ⚙️ Attack Methodology (Lab Only)
 1. Intercept request
