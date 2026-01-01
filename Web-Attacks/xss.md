@@ -54,7 +54,9 @@ This allows attackers to:
 ## 🛠️ Tools Used
 
 - Burp Suite  
-<img src="images/xss-burpsuite.png" alt="Burp Suite XSS" width="700"/>
+<img src="images/xss-burp.png" alt="Burp Suite XSS" width="700"/>
+
+<img src="images/xss-burp2.png" alt="Burp Suite XSS" width="700"/>
 
 - Browser Developer Tools  
 <img src="images/devtools.png" alt="Browser DevTools XSS" width="700"/>
