@@ -62,7 +62,7 @@ This allows attackers to:
 <img src="images/devtools.png" alt="Browser DevTools XSS" width="700"/>
 
 - XSStrike  
-<img src="images/xsstrike.png" alt="XSStrike Tool" width="700"/>
+<img src="images/xssstrike.png" alt="XSStrike Tool" width="700"/>
 
 - Manual Payload Testing  
 <img src="images/manual-xss.png" alt="Manual XSS Payload" width="700"/>
