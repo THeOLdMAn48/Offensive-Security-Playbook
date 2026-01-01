@@ -37,24 +37,78 @@ The author is not responsible for any misuse of the information provided.
 ## 📂 Repository Structure
 
 ```
-offensive-security-playbook
-│
-├── README.md
-├── DISCLAIMER.md
-├── ROADMAP.pdf
-│
-├── 01-Reconnaissance
-├── 02-Web-Attacks
-├── 03-Network-Attacks
-├── 04-Linux-Privilege-Escalation
-├── 05-Windows-Privilege-Escalation
-├── 06-Active-Directory
-├── 07-Wireless-Attacks
-├── 08-Cloud-Attacks
-├── 09-Mobile-Security
-├── 10-Post-Exploitation
-├── 11-Detection-and-Defense
-└── 12-TryHackMe-Writeups
+📦 offensive-security-playbook
+ ┣ 📄 README.md
+ ┣ 📄 DISCLAIMER.md
+ ┣ 📄 ROADMAP.pdf
+ │
+ ┣ 📂 01-Reconnaissance
+ │   ┣ passive-recon.md
+ │   ┣ active-recon.md
+ │   ┗ tools.md
+ │
+ ┣ 📂 02-Web-Attacks
+ │   ┣ sql-injection.md
+ │   ┣ xss.md
+ │   ┣ idor.md
+ │   ┣ file-upload.md
+ │   ┣ auth-bypass.md
+ │   ┗ api-attacks.md
+ │
+ ┣ 📂 03-Network-Attacks
+ │   ┣ nmap-enumeration.md
+ │   ┣ smb-attacks.md
+ │   ┣ mitm.md
+ │   ┣ brute-force.md
+ │   ┗ dos-attacks.md
+ │
+ ┣ 📂 04-Linux-Privilege-Escalation
+ │   ┣ enumeration.md
+ │   ┣ suid-abuse.md
+ │   ┣ cron-abuse.md
+ │   ┗ sudo-misconfig.md
+ │
+ ┣ 📂 05-Windows-Privilege-Escalation
+ │   ┣ service-misconfig.md
+ │   ┣ dll-hijacking.md
+ │   ┣ registry-abuse.md
+ │   ┗ token-impersonation.md
+ │
+ ┣ 📂 06-Active-Directory
+ │   ┣ ad-enumeration.md
+ │   ┣ kerberoasting.md
+ │   ┣ asrep-roasting.md
+ │   ┣ lateral-movement.md
+ │   ┗ dcsync.md
+ │
+ ┣ 📂 07-Wireless-Attacks
+ │   ┣ wifi-attacks.md
+ │   ┗ evil-twin.md
+ │
+ ┣ 📂 08-Cloud-Attacks
+ │   ┣ cloud-misconfig.md
+ │   ┣ iam-privesc.md
+ │   ┣ ssrf-metadata.md
+ │   ┗ exposed-keys.md
+ │
+ ┣ 📂 09-Mobile-Security
+ │   ┣ android-attacks.md
+ │   ┗ ios-attacks.md
+ │
+ ┣ 📂 10-Post-Exploitation
+ │   ┣ persistence.md
+ │   ┣ lateral-movement.md
+ │   ┗ lolbins.md
+ │
+ ┣ 📂 11-Detection-and-Defense
+ │   ┣ mitre-mapping.md
+ │   ┣ siem-detections.md
+ │   ┗ mitigations.md
+ │
+ ┗ 📂 12-TryHackMe-Writeups
+     ┣ room-name-1.md
+     ┗ room-name-2.md
+
 ```
 ---
 Each directory contains:
