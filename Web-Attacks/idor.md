@@ -42,7 +42,7 @@ Attackers can manipulate these values to access **other users’ data**.
 ## 🛠️ Tools Used
 
 - Burp Suite
-  
+
 ### setp 1
 
 <img src="images/idor-burp.png" alt="Burp Suite IDOR" width="700"/>
