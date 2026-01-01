@@ -44,11 +44,15 @@ Attackers can manipulate these values to access **other users’ data**.
 - Burp Suite
   
 ### setp 1
-
 <img src="images/idor-burp.png" alt="Burp Suite IDOR" width="700"/>
+### setp 2
 <img src="images/idor2-burp.png" alt="Burp Suite IDOR" width="700"/>
+### setp 3
 <img src="images/idor3-burp.png" alt="Burp Suite IDOR" width="700"/>
+### setp 4
 <img src="images/idor4-burp.png" alt="Burp Suite IDOR" width="700"/>
+### setp 5
+<img src="images/idor5-burp.png" alt="Burp Suite IDOR" width="700"/>
 
 --- 
 
