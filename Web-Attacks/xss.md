@@ -4,6 +4,7 @@
 Web Application Attack
 
 ---
+<img src="images/xss-main.webp" alt="Burp Suite XSS" width="700"/>
 
 ## 🧠 What is XSS?
 Cross-Site Scripting (XSS) is a vulnerability where an attacker injects **malicious JavaScript** into a trusted website, which then executes in the victim’s browser.
