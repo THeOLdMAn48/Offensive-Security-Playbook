@@ -4,8 +4,6 @@ A structured and ethical offensive cybersecurity knowledge base documenting real
 
 This repository represents my hands-on cybersecurity learning journey, focused on offensive security (red teaming) while maintaining strong ethical and defensive awareness.
 
-![Cybersecurity](unnamed.jpg)
-
 ---
 
 ## 🎯 Purpose of This Repository
