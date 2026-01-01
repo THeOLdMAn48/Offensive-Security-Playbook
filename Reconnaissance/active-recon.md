@@ -1,7 +1,6 @@
 # Active Reconnaissance
 
-## 📌 Category
-Reconnaissance
+## 📌 Category Reconnaissance
 
 ---
 
