@@ -40,14 +40,6 @@ A File Upload vulnerability occurs when an application allows users to upload fi
 - Burp Suite  
 <img src="images/burpsuite.png" alt="Burp File Upload" width="700"/>
 
-- Web Shells (Lab only)  
-<img src="images/webshell.png" alt="Web Shell Upload" width="700"/>
-
-- Metasploit  
-<img src="images/metasploit.png" alt="Metasploit File Upload" width="700"/>
-
-- Manual File Tampering  
-<img src="images/manual-upload.png" alt="Manual Upload Tampering" width="700"/>
 
 ---
 
