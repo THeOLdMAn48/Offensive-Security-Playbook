@@ -51,7 +51,6 @@ The author is not responsible for any misuse of the information provided.
  │   ┣ idor.md
  │   ┣ file-upload.md
  │   ┣ auth-bypass.md
- │   ┗ api-attacks.md
  │
  ┣ 📂 03-Network-Attacks
  │   ┣ nmap-enumeration.md
