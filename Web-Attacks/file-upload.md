@@ -38,7 +38,7 @@ A File Upload vulnerability occurs when an application allows users to upload fi
 ## 🛠️ Tools Used
 
 - Burp Suite  
-<img src="images/burpsuite.png" alt="Burp File Upload" width="700"/>
+<img src="images/fu-burpsuite.png" alt="Burp File Upload" width="700"/>
 
 
 ---
